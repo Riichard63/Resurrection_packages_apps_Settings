@@ -182,7 +182,7 @@
     <string name="network_traffic_summary">Activer diverses options de trafic réseau dans la barre d\'état</string>
     <string name="show_network_traffic_unit">Unité d\'affichage</string>
     <string name="show_network_traffic_frequency">Intervalle de mise a jour</string>
-    <string name="show_network_traffic_disable">Désactivé</string></string>
+    <string name="show_network_traffic_disable">Désactivé</string>
     <string name="show_network_traffic_up">Sortant</string>
     <string name="show_network_traffic_down">Entrant</string>
     <string name="show_network_traffic_all">Sortant et entrant</string>
@@ -983,7 +983,7 @@
     <string name="pie_background_color_title">Couleur de l\'arrière plan</string>
     <string name="pie_snap_color_title">Couleur du point de synchronisation</string>
     <string name="pie_text_color_title">Couleur du texte</string>
-    <string name="pie_background_alpha_title">Transparence de l\'arrière plan<string>
+    <string name="pie_background_alpha_title">Transparence de l\'arrière plan</string>
     <string name="pie_mirror_right_title">Miroir du pie droit</string>
     <string name="pie_mirror_right_summary">Miroir du pie droit sur l\'axe horizontal</string>
     <string name="pie_style"><b>Style et dimension</b></string>
